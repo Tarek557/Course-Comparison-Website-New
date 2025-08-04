@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Course-Comparison-Website-New/static/css/main.a7c1806a.css",
+    "main.js": "/Course-Comparison-Website-New/static/js/main.ee6bafbc.js",
+    "index.html": "/Course-Comparison-Website-New/index.html",
+    "main.a7c1806a.css.map": "/Course-Comparison-Website-New/static/css/main.a7c1806a.css.map",
+    "main.ee6bafbc.js.map": "/Course-Comparison-Website-New/static/js/main.ee6bafbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c1806a.css",
+    "static/js/main.ee6bafbc.js"
+  ]
+}
