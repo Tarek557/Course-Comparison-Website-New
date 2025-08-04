@@ -310,7 +310,13 @@ const universitiesData = [
         courseContent: "Medieval Literature, Renaissance Drama, Victorian Novel, Modern Poetry",
         duration: "3 years (BA)",
         entryRequirements: "A*AA (including English Literature)"
-      }
+      },
+      "Medicine": {
+    courseContent: "Anatomy, Physiology, Biochemistry, Pathology, Clinical Skills, Pharmacology",
+    duration: "6 years (MB BChir)",
+    entryRequirements: "A*A*A (including Chemistry and Biology)",
+    tuitionFeesInternational: "£70,554"
+  }
     },
     courseContent: "Algorithms, Computer Systems, Software Engineering, Machine Learning, AI", // Default for display
     duration: "3 years (BA), 4 years (MEng)",
